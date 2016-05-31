@@ -1,6 +1,6 @@
 -----------------------
 
-# ACF FIELD_LABEL Field
+# ACF Phone number Field
 
 ACF v4 field to display a phone and/or fax number
 Define the country prefix (00/+) and the separator between the number components
